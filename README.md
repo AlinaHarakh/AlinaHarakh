@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Frontend Developer and UX/UI Designer
 
 🎓Tools:
-HTML5
+HTML5 <br></br>
 CSS3, SCSS
 JavaScript, jQuery
 
