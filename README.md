@@ -20,6 +20,8 @@
   <li>Responsive website layout,</li>
   <li>Figma, PSD to HTML,</li>
   <li>CSS3\JS Animation</li>
+  <li>Web Design,</li>
+  <li>Redesign</li>
 </ul>
 <br>
 <h2>Languages:</h2>
